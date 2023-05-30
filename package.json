@@ -1,0 +1,17 @@
+{
+  "name": "formify-js",
+  "version": "1.0.1",
+  "description": "Formlyjs is a comprehensive form validation library for React applications. It provides a Form Validation hook that simplifies form validation by handling form state, error messages, and validation rules. The package also includes a set of pre-defined regex patterns for common validation scenarios.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Form"
+  ],
+  "author": "Rajeshkumar S",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
